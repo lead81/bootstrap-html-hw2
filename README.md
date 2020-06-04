@@ -22,8 +22,8 @@ Homework assignment to get students use to Bootstrap CSS and start own blog.
 
 ## Usage
 
-[Deployed Website](https://lead81.github.io/GT-Accessibility-html-hw1/)
-![gthw1](./assets/images/gthw1.png)
+[Deployed Website](https://lead81.github.io/bootstrap-html-hw2/)
+![gthw2](./assets/img/gthw2.png)
 
 ## Credits
 
